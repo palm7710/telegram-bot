@@ -1,7 +1,7 @@
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # アクセストークン
-TOKEN = "7037642848:AAHfzCnN5nxQMgoqqWpn-SMbEBNpRiWFXY4"
+TOKEN = "YOUR_TOKEN_HERE"
 
 class TelegramBot:
     def __init__(self, system):
